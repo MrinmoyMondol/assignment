@@ -61,10 +61,19 @@
                                     <a class="btn btn-link" href="{{ route('password.request') }}">
                                         {{ __('Forgot Your Password?') }}
                                     </a>
-                                @endif
+                                @endif                                
                             </div>
                         </div>
                     </form>
+
+
+                    <div class="row justify-content-center" style="margin-top: 10px">
+                        <div class="col-md-8 offset-md-4">
+                            <p>User Email :  <strong>admin@gmail.com</strong></p>
+                            <p>User Password :  <strong>123456789</strong></p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
