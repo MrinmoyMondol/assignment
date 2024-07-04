@@ -8,6 +8,8 @@ I try to create a simple contact management system. Here is the feature list of 
 
 4. Update Contact
 
+5. Delete Contact
+
 
 
 For Running this project -
