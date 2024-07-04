@@ -27,14 +27,13 @@
                         <table id="contactTable" class="table table-striped" style="width:100%">
                             <thead>
                             <tr>
-                            <tr>
                                 <th>Name</th>
                                 <th>Email</th>
                                 <th>Phone</th>
                                 <th>Address</th>
                                 <th>Actions</th>
                             </tr>
-                            </tr>
+                           
                             </thead>
                             <tbody>
                             @foreach ($contacts as $contact)
